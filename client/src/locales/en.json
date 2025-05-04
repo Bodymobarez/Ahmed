@@ -1,0 +1,138 @@
+{
+  "app": {
+    "title": "Shipping Management System"
+  },
+  "common": {
+    "to": "to",
+    "loading": "Loading...",
+    "close_menu": "Close menu",
+    "filter": "Filter",
+    "refresh": "Refresh",
+    "currency": "SAR",
+    "coming_soon": "Coming soon..."
+  },
+  "auth": {
+    "page_title": "Login",
+    "login": "Login",
+    "register": "Register",
+    "login_description": "Enter your credentials to access the shipping management system",
+    "register_description": "Create a new account in the shipping management system",
+    "username": "Username",
+    "username_placeholder": "Enter your username",
+    "password": "Password",
+    "password_placeholder": "Enter your password",
+    "confirm_password": "Confirm Password",
+    "confirm_password_placeholder": "Enter your password again",
+    "login_button": "Login",
+    "register_button": "Create Account",
+    "need_account": "Don't have an account? Register",
+    "have_account": "Already have an account? Login",
+    "login_failed": "Login Failed",
+    "registration_failed": "Registration Failed",
+    "logout_failed": "Logout Failed",
+    "welcome_message": "Welcome to the Integrated Shipping Management System",
+    "features": "System Features",
+    "feature_shipments": "Manage and track shipments",
+    "feature_vehicles": "Vehicle management and maintenance",
+    "feature_drivers": "Driver and employee management",
+    "feature_accounting": "Financial system and reports"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "shipments": "Shipments",
+    "vehicles": "Vehicles",
+    "drivers": "Drivers",
+    "hr": "Human Resources",
+    "accounting": "Accounting",
+    "reports": "Reports",
+    "settings": "Settings"
+  },
+  "header": {
+    "show_notifications": "Show notifications",
+    "open_user_menu": "Open user menu",
+    "change_language": "Change language"
+  },
+  "user": {
+    "role": "System Admin",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "page_title": "Dashboard",
+    "title": "Dashboard",
+    "total_shipments": "Total Shipments",
+    "active_vehicles": "Active Vehicles",
+    "available_drivers": "Available Drivers",
+    "monthly_revenue": "Monthly Revenue",
+    "view_all_shipments": "View all shipments",
+    "view_all_vehicles": "View all vehicles",
+    "view_all_drivers": "View all drivers",
+    "view_financial_reports": "View financial reports",
+    "active_shipments": "Active Shipments",
+    "recent_activities": "Recent Activities",
+    "vehicle_status": "Vehicle Status",
+    "drivers": "Drivers"
+  },
+  "shipment": {
+    "page_title": "Shipments",
+    "title": "Shipments",
+    "management": "Shipment Management",
+    "add_new": "Add New Shipment",
+    "number": "Shipment #%{id}",
+    "delivery_date": "Delivery Date",
+    "shipped_date": "Shipped Date",
+    "driver": "Driver",
+    "client": "Client",
+    "view_all": "View all shipments",
+    "unassigned": "(Unassigned)",
+    "no_active_shipments": "No active shipments",
+    "status": {
+      "delivered": "Delivered",
+      "in_transit": "In Transit",
+      "pending": "Pending"
+    }
+  },
+  "vehicle": {
+    "page_title": "Vehicles",
+    "title": "Vehicles",
+    "management": "Vehicle Management",
+    "manage": "Manage Vehicles",
+    "status_summary": "Vehicles by Status",
+    "active": "Active",
+    "maintenance": "Maintenance",
+    "inactive": "Inactive",
+    "maintenance_needed": "Vehicles that need maintenance soon",
+    "no_maintenance_needed": "No vehicles need maintenance soon",
+    "schedule_maintenance": "Schedule Maintenance",
+    "plate": "Plate %{plate}",
+    "last_maintenance": "Last maintenance: %{days} days ago"
+  },
+  "driver": {
+    "page_title": "Drivers",
+    "title": "Drivers",
+    "management": "Driver Management",
+    "manage": "Manage Drivers",
+    "performance": "Driver Performance",
+    "available": "Available",
+    "on_mission": "On Mission",
+    "on_leave": "On Leave",
+    "top_performers": "Top Drivers This Month",
+    "completed_trips": "Completed Trips: %{count}",
+    "no_data": "No driver data available"
+  },
+  "hr": {
+    "page_title": "Human Resources",
+    "title": "Human Resources",
+    "management": "Human Resources Management"
+  },
+  "accounting": {
+    "page_title": "Accounting",
+    "title": "Accounting",
+    "management": "Accounting Management"
+  },
+  "activity": {
+    "view_all": "View all activities",
+    "no_activities": "No recent activities"
+  }
+}

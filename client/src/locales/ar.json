@@ -1,0 +1,138 @@
+{
+  "app": {
+    "title": "نظام إدارة الشحن"
+  },
+  "common": {
+    "to": "إلى",
+    "loading": "جاري التحميل...",
+    "close_menu": "إغلاق القائمة",
+    "filter": "تصفية",
+    "refresh": "تحديث",
+    "currency": "ر.س",
+    "coming_soon": "قريباً..."
+  },
+  "auth": {
+    "page_title": "تسجيل الدخول",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "login_description": "أدخل بيانات الدخول للوصول إلى نظام إدارة الشحن",
+    "register_description": "أنشئ حسابًا جديدًا في نظام إدارة الشحن",
+    "username": "اسم المستخدم",
+    "username_placeholder": "أدخل اسم المستخدم",
+    "password": "كلمة المرور",
+    "password_placeholder": "أدخل كلمة المرور",
+    "confirm_password": "تأكيد كلمة المرور",
+    "confirm_password_placeholder": "أدخل كلمة المرور مرة أخرى",
+    "login_button": "تسجيل الدخول",
+    "register_button": "إنشاء حساب",
+    "need_account": "ليس لديك حساب؟ قم بإنشاء حساب",
+    "have_account": "لديك حساب بالفعل؟ سجل الدخول",
+    "login_failed": "فشل تسجيل الدخول",
+    "registration_failed": "فشل إنشاء الحساب",
+    "logout_failed": "فشل تسجيل الخروج",
+    "welcome_message": "مرحباً بك في نظام إدارة الشحن المتكامل",
+    "features": "مميزات النظام",
+    "feature_shipments": "إدارة الشحنات وتتبعها",
+    "feature_vehicles": "إدارة المركبات وصيانتها",
+    "feature_drivers": "إدارة السائقين والموظفين",
+    "feature_accounting": "النظام المالي والتقارير"
+  },
+  "sidebar": {
+    "dashboard": "لوحة التحكم",
+    "shipments": "الشحنات",
+    "vehicles": "المركبات",
+    "drivers": "السائقين",
+    "hr": "الموارد البشرية",
+    "accounting": "المحاسبة",
+    "reports": "التقارير",
+    "settings": "الإعدادات"
+  },
+  "header": {
+    "show_notifications": "عرض الإشعارات",
+    "open_user_menu": "فتح قائمة المستخدم",
+    "change_language": "تغيير اللغة"
+  },
+  "user": {
+    "role": "مدير النظام",
+    "profile": "الملف الشخصي",
+    "settings": "الإعدادات",
+    "logout": "تسجيل الخروج"
+  },
+  "dashboard": {
+    "page_title": "لوحة التحكم",
+    "title": "لوحة التحكم",
+    "total_shipments": "إجمالي الشحنات",
+    "active_vehicles": "المركبات النشطة",
+    "available_drivers": "السائقين المتاحين",
+    "monthly_revenue": "إجمالي الدخل (الشهري)",
+    "view_all_shipments": "عرض جميع الشحنات",
+    "view_all_vehicles": "عرض جميع المركبات",
+    "view_all_drivers": "عرض جميع السائقين",
+    "view_financial_reports": "عرض التقارير المالية",
+    "active_shipments": "الشحنات النشطة",
+    "recent_activities": "آخر الأنشطة",
+    "vehicle_status": "حالة المركبات",
+    "drivers": "السائقين"
+  },
+  "shipment": {
+    "page_title": "الشحنات",
+    "title": "الشحنات",
+    "management": "إدارة الشحنات",
+    "add_new": "إضافة شحنة جديدة",
+    "number": "شحنة #%{id}",
+    "delivery_date": "تاريخ التسليم",
+    "shipped_date": "تم الشحن",
+    "driver": "السائق",
+    "client": "العميل",
+    "view_all": "عرض كل الشحنات",
+    "unassigned": "(لم يتم التعيين)",
+    "no_active_shipments": "لا توجد شحنات نشطة",
+    "status": {
+      "delivered": "تم التسليم",
+      "in_transit": "في الطريق",
+      "pending": "قيد التجهيز"
+    }
+  },
+  "vehicle": {
+    "page_title": "المركبات",
+    "title": "المركبات",
+    "management": "إدارة المركبات",
+    "manage": "إدارة المركبات",
+    "status_summary": "المركبات بحسب الحالة",
+    "active": "نشط",
+    "maintenance": "صيانة",
+    "inactive": "معطل",
+    "maintenance_needed": "المركبات التي تحتاج صيانة قريبًا",
+    "no_maintenance_needed": "لا توجد مركبات تحتاج صيانة قريبًا",
+    "schedule_maintenance": "جدولة صيانة",
+    "plate": "لوحة %{plate}",
+    "last_maintenance": "آخر صيانة: قبل %{days} يوم"
+  },
+  "driver": {
+    "page_title": "السائقين",
+    "title": "السائقين",
+    "management": "إدارة السائقين",
+    "manage": "إدارة السائقين",
+    "performance": "أداء السائقين",
+    "available": "متاح",
+    "on_mission": "في مهمة",
+    "on_leave": "إجازة",
+    "top_performers": "أفضل السائقين لهذا الشهر",
+    "completed_trips": "رحلات مكتملة: %{count}",
+    "no_data": "لا توجد بيانات للسائقين"
+  },
+  "hr": {
+    "page_title": "الموارد البشرية",
+    "title": "الموارد البشرية",
+    "management": "إدارة الموارد البشرية"
+  },
+  "accounting": {
+    "page_title": "المحاسبة",
+    "title": "المحاسبة",
+    "management": "إدارة المحاسبة"
+  },
+  "activity": {
+    "view_all": "عرض كل الأنشطة",
+    "no_activities": "لا يوجد أنشطة حديثة"
+  }
+}
